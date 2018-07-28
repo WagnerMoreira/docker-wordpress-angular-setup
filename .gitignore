@@ -4,6 +4,9 @@ wp-content/themes/angular-app/dist
 # ignore dependencies
 wp-content/themes/angular-app/frontend/node_modules
 
+# ignore plugins folder
+wp-content/plugins
+
 # track this file .gitignore (i.e. do NOT ignore it)
 !.gitignore
 
