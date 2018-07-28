@@ -1,0 +1,15 @@
+# ignore compiled output
+wp-content/themes/angular-app/dist
+
+# ignore dependencies
+wp-content/themes/angular-app/frontend/node_modules
+
+# track this file .gitignore (i.e. do NOT ignore it)
+!.gitignore
+
+# track .editorconfig file (i.e. do NOT ignore it)
+!.editorconfig
+
+# System Files
+.DS_Store
+Thumbs.db
